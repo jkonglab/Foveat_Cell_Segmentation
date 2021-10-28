@@ -1,6 +1,6 @@
 # FovealBoosted
 
-This a tool for nuclei segmentation. Published in [Oxford Bioinformatics](https://doi.org/10.1093/bioinformatics/btab418).
+This a tool for nuclei segmentation.
 ## files
 
 
@@ -21,3 +21,6 @@ foveal/ | *.mat containing foveal blurred images
 cells/ | *.mat containing nuclei-level masks
 weights/ | containing trained weights
 results/ | containing testing results
+
+## Reference
+Hongyi Duanmu, Fusheng Wang, George Teodoro, Jun Kong, “Foveal Blur-Boosted Segmentation of Nuclei in Histopathology Images with Shape Prior Knowledge and Constraints,” Oxford Bioinformatics,2021.
