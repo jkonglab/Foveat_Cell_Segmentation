@@ -24,3 +24,6 @@ results/ | containing testing results
 
 ## Reference
 Hongyi Duanmu, Fusheng Wang, George Teodoro, Jun Kong, “Foveal Blur-Boosted Segmentation of Nuclei in Histopathology Images with Shape Prior Knowledge and Constraints,” Oxford Bioinformatics,2021.
+
+## License
+This tool is available under the GNU General Public License (GPL) (https://www.gnu.org/licenses/gpl-3.0.en.html) and the LGPL (https://www.gnu.org/licenses/lgpl-3.0.en.html).
